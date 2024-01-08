@@ -1,0 +1,4 @@
+rootProject.name = 'healthappointmentpicker'
+
+include 'healthappointmentpicker-domain'
+include 'healthappointmentpicker-application'

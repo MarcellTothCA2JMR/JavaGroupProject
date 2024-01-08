@@ -1,0 +1,151 @@
+
+html body {
+    background-color: #DDFFFB !important;
+}
+
+.navbar-custom {
+    background-color: #DDFFFB !important;
+    font-size: 1.3em;
+}
+
+.brand-custom {
+    background-color: #8CE0FC;
+    padding-right: 4em;
+    padding-left: 4em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    border: #8CE0FC solid 1px;
+    border-radius: 1em;
+    text-align: center;
+    font-size: 1.3em !important;
+}
+
+.nav-customitem
+{
+    background-color: #A5FFF2;
+    padding: 0.9rem;
+    
+    border: #A5FFF2 solid 1px;
+    font-size: 1.1em !important;
+}
+
+.nav-custom {
+    color:black !important;
+}
+
+.textbody {
+    background-color: #C5FFF9 !important;
+    max-height: 100% !important;
+    border: #C5FFF9  solid 1px;
+    border-radius: 2em;
+    padding: 1em;
+    text-indent: 0.7em;
+}
+
+.content {
+    padding: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+h1 {
+    color: #0B5FB2;
+    text-decoration: underline;
+}
+
+.container {
+    padding-right:0 !important;
+    padding-left:0 !important;
+ }
+
+ table, th, td {
+    border: black solid 2px !important;
+    text-align: center;
+ }
+
+ table {
+    width: 60%;
+    font-size: 1.1em;
+ }
+
+ th {
+    background-color: #76F5FF;
+    color:white;
+ }
+
+ tr td {
+    background-color: #E7FEFF;
+ }
+
+ tr:nth-child(even) {
+    background-color: #E7FEFF;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #A5FFF2;
+    border: #A5FFF2 solid 1px;
+    border-radius: 10px;
+    width: 12%;
+    padding: 5px;
+    font-size: 1.2em;
+}
+
+.login-title {
+	width: 60%;
+	transform: translateX(35%);
+	margin-top:10%; 
+	margin-bottom:10%; 
+}
+
+.login {
+	text-align: center;
+	
+    height: 40em !important; 
+}
+
+.login input[type=submit] {
+	
+    width: 18%;
+}
+
+.register {
+
+    height: 42em !important;
+}
+
+.register-title {
+    width: 60%;
+    transform: translateX(35%);
+    margin-top:5%;
+    margin-bottom: 5%;
+}
+
+.column-left {
+    margin-left: 30%;
+}
+.column-right {
+    margin-right: 20%;
+}
+
+.register input[type=submit] {
+    width: 30%;
+}
+
+.register-button {
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+.error {
+    color: red;
+}
+
+.doctor-register {
+    margin-left: 17%;
+}
+
+.doctor-register input[type=submit] {
+    width: 20%;
+}
+
